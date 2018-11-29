@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HaveFun</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
 </resources>

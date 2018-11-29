@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/if_facebook_circle_color_107175"
+            android:title="test" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/if_google_circle_294707"
+            android:title="test2" />
+        <item
+            android:id="@+id/nav_camera2"
+            android:icon="@drawable/if_facebook_circle_color_107175"
+            android:title="test3" />
+        <item
+            android:id="@+id/nav_gallery2"
+            android:icon="@drawable/if_google_circle_294707"
+            android:title="test4" />
+    </group>
+</menu>
